@@ -1,0 +1,48 @@
+.slider h3, h5{
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+section, footer {
+    padding: 20px 0;
+}
+
+.about h5 {
+    padding-top: 20px;
+}
+
+.facebook {
+    width: 75px;
+    height: 75px;
+    background-image: url(../assets/img/contact/Facebook.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    text-indent: -9999px;
+    left: 225px;
+    position: absolute;
+}
+
+.instagram {
+    width: 75px;
+    height: 75px;
+    background-image: url(../assets/img/contact/Instagram.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    text-indent: -9999px;
+    left: 325px;
+    position: absolute;
+}
+
+.whatsapp {
+    width: 100px;
+    height: 80px;
+    background-image: url(../assets/img/contact/Whatsapp.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    text-indent: -9999px;
+    left: 400px;
+    position: absolute;
+}
+
+.form {
+    padding-top: 115px;
+}
