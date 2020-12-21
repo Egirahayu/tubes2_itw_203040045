@@ -20,14 +20,13 @@ section, footer {
 }
 
 .facebook {
-    width: 75px;
+    width: 100px;
     height: 75px;
     background-image: url(../assets/img/contact/Facebook.png);
     background-repeat: no-repeat;
     display: inline-block;
     text-indent: -9999px;
-    left: 225px;
-    position: absolute;
+    position: relative;
 }
 
 .instagram {
@@ -37,8 +36,7 @@ section, footer {
     background-repeat: no-repeat;
     display: inline-block;
     text-indent: -9999px;
-    left: 325px;
-    position: absolute;
+    position: relative;
 }
 
 .whatsapp {
@@ -48,10 +46,9 @@ section, footer {
     background-repeat: no-repeat;
     display: inline-block;
     text-indent: -9999px;
-    left: 400px;
-    position: absolute;
+    position: relative;
 }
 
 .form {
-    padding-top: 115px;
+    padding-top: 50px;
 }
