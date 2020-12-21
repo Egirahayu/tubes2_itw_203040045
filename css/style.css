@@ -1,5 +1,14 @@
+@font-face {
+    font-family: 'Kaushan-Script';
+    src: url('../assets/font/Kaushan-Script/KaushanScript-Regular.otf');
+}
+
 .slider h3, h5{
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.slider h3, .brand-logo {
+    font-family: 'Kaushan-Script';
 }
 
 section, footer {
