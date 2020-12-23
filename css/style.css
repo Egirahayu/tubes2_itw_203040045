@@ -14,9 +14,13 @@
 section, footer {
     padding: 20px 0;
 }
+.about {
+    margin-top: 35px;
+    padding-bottom: 75px;
+}
 
-.about h5 {
-    padding-top: 20px;
+.about img {
+    margin-top: 25px;
 }
 
 .facebook {
